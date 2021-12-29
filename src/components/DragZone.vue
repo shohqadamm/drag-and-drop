@@ -8,7 +8,7 @@
     :class="{'activeDropZone':active}"
     class="dragzone"
   >
-    <span>Drag or Drop file</span>
+    <span>Drag or Drop files</span>
     <span>OR</span>
     <label for="dragzoneFile">Select file</label>
     <input type="file" id="dragzoneFile" class="dropzoneFile" />
